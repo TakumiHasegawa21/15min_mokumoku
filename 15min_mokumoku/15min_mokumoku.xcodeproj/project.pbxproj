@@ -33,7 +33,7 @@
 		CB611BD82D59F74B00244F88 /* Exceptions for "15min_mokumoku" folder in "15min_mokumoku" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Firebase/Info.plist,
 			);
 			target = CB611BAF2D59F74900244F88 /* 15min_mokumoku */;
 		};
