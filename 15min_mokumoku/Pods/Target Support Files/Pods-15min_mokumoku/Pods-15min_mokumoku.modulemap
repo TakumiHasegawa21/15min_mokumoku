@@ -1,0 +1,6 @@
+framework module Pods_15min_mokumoku {
+  umbrella header "Pods-15min_mokumoku-umbrella.h"
+
+  export *
+  module * { export * }
+}
